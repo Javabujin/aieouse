@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "aieouse"
-include("app")
+include("aieouse-core")
